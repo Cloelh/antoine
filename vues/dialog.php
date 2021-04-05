@@ -124,7 +124,7 @@
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-body">
-                <img class="col-img" src="public/img/offi/Furlax-infini.jpg">
+                <img class="col-img" src="public/img/offi/Sopico-Ëpisode0.jpg">
             </div>
         </div>
     </div>
@@ -135,7 +135,7 @@
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-body">
-                <img class="col-img" src="public/img/offi/Sopico-Ëpisode0.jpg">
+                <img class="col-img" src="public/img/offi/Beeby-Hotline.jpg">
             </div>
         </div>
     </div>
@@ -146,7 +146,7 @@
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-body">
-                <img class="col-img" src="public/img/offi/Beeby-Hotline.jpg">
+                <img class="col-img" src="public/img/offi/Beeby-Hiver2019.jpg">
             </div>
         </div>
     </div>
@@ -157,7 +157,7 @@
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-body">
-                <img class="col-img" src="public/img/offi/Beeby-Hiver2019.jpg">
+                <img class="col-img" src="public/img/offi/Zamdane-Low.jpg">
             </div>
         </div>
     </div>
@@ -168,7 +168,7 @@
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-body">
-                <img class="col-img" src="public/img/offi/Zamdane-Low.jpg">
+                <img class="col-img" src="public/img/offi/Joss-Payday.jpg">
             </div>
         </div>
     </div>
@@ -179,7 +179,7 @@
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-body">
-                <img class="col-img" src="public/img/offi/Joss-Payday.jpg">
+                <img class="col-img" src="public/img/offi/ThaHomey-StormRising.jpg">
             </div>
         </div>
     </div>
@@ -190,7 +190,7 @@
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-body">
-                <img class="col-img" src="public/img/offi/ThaHomey-StormRising.jpg">
+                <img class="col-img" src="public/img/offi/Twenty-Menace4.jpg">
             </div>
         </div>
     </div>

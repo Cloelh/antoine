@@ -126,7 +126,7 @@
             </div>
 
             <div class="gallery-img">
-                <button type="button" class="btnModal" data-bs-toggle="modal" data-bs-target="#Sopico-Ëpisode0">
+                <button type="button" class="btnModal" data-bs-toggle="modal" data-bs-target="#Sopico-Ëpisode">
                     <img class="col-img" src="public/img/offi/Sopico-Ëpisode0.jpg">
                     <div class="img-desc">
                         <h2>Sopico- Ëpisode 0</h2>
